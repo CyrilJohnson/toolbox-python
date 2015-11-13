@@ -28,7 +28,7 @@ Example of expect usage for ssh login with password.
 
 ## aws_list.py
 
-Example of boto usages to connect AWS.
+Example of boto usage to connect AWS.
 
 You need to get boto from https://aws.amazon.com/sdk-for-python/
 
